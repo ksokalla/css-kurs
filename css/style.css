@@ -1,14 +1,14 @@
 body {
 	background-color: lightgoldenrodyellow;
 }
+
 p {
 	color: #ff0000;
 	font-size: 25px;
-	
-}	
-#miasto, a
-{
-	color:hotpink;
+}
+
+#miasto ~ p {
+	color: hotpink;
 }
 
 div#linki > p {
